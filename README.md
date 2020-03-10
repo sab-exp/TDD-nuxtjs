@@ -1,4 +1,4 @@
-# newDelLater
+# TDD-nuxtjs
 
 > My wonderful Nuxt.js project
 
